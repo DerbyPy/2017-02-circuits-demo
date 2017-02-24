@@ -1,0 +1,11 @@
+*.komodo*
+.idea/*
+*.pyc
+*.egg-info
+.coverage
+coverage.xml
+coverage.lcov
+.tox
+*/.cache
+.cache
+.ci/test-reports
